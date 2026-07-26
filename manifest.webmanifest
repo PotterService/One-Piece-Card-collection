@@ -1,0 +1,9 @@
+{
+  "name": "Bow One Piece Collection Manager",
+  "short_name": "Bow One Piece",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#0f172a",
+  "description": "A browser-based One Piece Card Game collection manager powered by OPTCG API."
+}
