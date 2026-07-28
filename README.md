@@ -45,3 +45,13 @@ This site reduces requests by:
 Collection information stays in each visitor's browser. Users should export backups regularly.
 
 This project is not affiliated with or endorsed by Bandai, Eiichiro Oda, Shueisha, Toei Animation, or OPTCG API.
+
+
+## Bow Collection Hub
+
+This version includes direct links to:
+
+https://collection.potterservice.com
+
+Visitors can use the Bow Collection Hub to discover the other Bow collection managers and apps.
+The link appears in the sidebar, top navigation area, and dashboard.
